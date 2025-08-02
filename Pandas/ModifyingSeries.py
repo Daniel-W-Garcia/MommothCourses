@@ -30,4 +30,3 @@ print(f"This is the popped value: {popped}")
 print(f"This is the modified series with 0 in the first index:\n{modified_series}")
 print(f"This is the series with 10's in the first 3 indexes:\n {modified_series_10s}")
 print(f"This is the renamed series:\n{renamed_series}")
-

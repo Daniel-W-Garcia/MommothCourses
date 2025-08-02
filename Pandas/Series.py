@@ -27,5 +27,3 @@ numpy_series = np_series.to_numpy() # converting that series back to a numpy arr
 
 print(f"This is the series created from numpy:\n{np_series}") #prints as series
 print(f"This is the converted series back to numpy:\n{numpy_series}") #prints as array
-
-

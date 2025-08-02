@@ -22,7 +22,6 @@ renamed_series = modified_series_10s.rename('Series 1')
 renamed_series = modified_series_10s.rename(str.upper) # changes lowercase strings to upppercase
 
 
-
 print(series_from_dict)
 print(appended_series)
 print(f"This series drops 'm' and 'l':\n{new_series}")

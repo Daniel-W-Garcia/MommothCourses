@@ -32,5 +32,3 @@ def move_to_end(position, end_pos):
 
 new_current_position = move_to_end(0, 5)
 print(new_current_position)
-
-
